@@ -133,16 +133,16 @@ const Footer = () => {
         <Left>
           <Logo />
           <IconList>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://facebook.com" target="_blank" rel="noreferrer">
               <Facebook />
             </a>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://instagram.com" target="_blank" rel="noreferrer">
               <Instagram />
             </a>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://twitter.com" target="_blank" rel="noreferrer">
               <Twitter />
             </a>
-            <a href="#" target="_blank" rel="noreferrer">
+            <a href="https://linkedin.com" target="_blank" rel="noreferrer">
               <LinkedIn />
             </a>
           </IconList>
