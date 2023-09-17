@@ -6,3 +6,4 @@
 ![Alt text](<Home - Desktop.png>)
 
 ### Deployment Link
+https://theweirdosclub.netlify.app/
